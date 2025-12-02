@@ -6,7 +6,7 @@ To build and evaluate supervised machine learning classification models (using s
 ## 🛠 Tools & Technologies
 * Language: Python
 * Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-* Techniques: Supervised Classification (e.g., K-Nearest Neighbors, Decision Trees), Feature Engineering, Hyperparameter Tuning, Model Evaluation (Accuracy, Precision, Recall, F1-Score).
+* Techniques: Supervised Classification (e.g., K-Nearest Neighbors, Decision Trees), Feature Engineering, Hyperparameter Tuning, Model Evaluation (Accuracy, Precision, Recall, F1-                    Score).
 
 ## 💡 Key Findings
 * Model Performance: Built classification models that demonstrated strong predictive accuracy, confirming the correlation between physical traits and animal class.
